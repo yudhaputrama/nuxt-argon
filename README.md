@@ -1,6 +1,7 @@
-# eldutechlanding
+# Nuxt Argon
 
-> Eldu Tech Landing Page
+> Nuxt + Argon Design System
+Based bootstrap frameworkk
 
 ## Build Setup
 
@@ -19,4 +20,4 @@ $ yarn start
 $ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org) & [Argon docs](https://demos.creative-tim.com/argon-design-system/index.html).
